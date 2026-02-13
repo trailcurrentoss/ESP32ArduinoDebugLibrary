@@ -19,7 +19,7 @@ Add to your `platformio.ini`:
 
 ```ini
 lib_deps =
-    ssh://git@codeberg.org/trailcurrentopensource/ESP32ArduinoDebugLibrary.git@2.0.0
+    git@github.com:trailcurrentoss/ESP32ArduinoDebugLibrary.git
 ```
 
 ### Basic Usage
@@ -243,7 +243,7 @@ Replace project-specific debug definitions:
 **New:**
 ```cpp
 // In platformio.ini
-lib_deps = ssh://git@codeberg.org/trailcurrentopensource/ESP32ArduinoDebugLibrary.git@2.0.0
+lib_deps = git@github.com:trailcurrentoss/ESP32ArduinoDebugLibrary.git
 
 // In code
 #include <debug.h>  // That's it!

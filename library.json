@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "ssh://git@codeberg.org/trailcurrentopensource/ESP32ArduinoDebugLibrary.git"
+    "url": "git@github.com:trailcurrentoss/ESP32ArduinoDebugLibrary.git"
   },
   "authors": [
     {

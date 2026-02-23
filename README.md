@@ -1,6 +1,6 @@
 # DebugLibrary - Comprehensive ESP32 Debug Macro System
 
-A production-ready debug macro library for ESP32 projects with **variadic arguments, zero-overhead compilation, and consistent API across all TrailCurrent products**.
+A production-ready debug macro library for ESP32 projects with **variadic arguments, zero-overhead compilation, and consistent API across all [TrailCurrent](https://trailcurrent.com) products**.
 
 ## Features
 
